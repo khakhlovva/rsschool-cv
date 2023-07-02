@@ -1,5 +1,4 @@
 ## rsschool-cv
-**********
 # Julia Khakhlova
 # My Contact Info
 * Location: Minsk, Belarus
