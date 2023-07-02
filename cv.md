@@ -15,7 +15,7 @@ I am 18 years old, I am a student and part-time tutor of mathematics and physics
 * Сryptography
 * UML
 # Code Example
-Task: check whether a given word is a palindrome
+`Task: check whether a given word is a palindrome`
 ```
 line = input()
 
