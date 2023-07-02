@@ -15,10 +15,8 @@ I am 18 years old, I am a student and part-time tutor of mathematics and physics
 * Сryptography
 * UML
 # Code Example
-`Task: check whether a given word is a palindrome`
 ```
 line = input()
-
 def palindrome (line):
     if len(line) < 1:
         return True
@@ -27,7 +25,7 @@ def palindrome (line):
             return palindrome(line[1:-1])
         else:
             return False
-```
+```  
 # Education
 * Belarusian State University 
     + Computer mathematics and systems analysis
