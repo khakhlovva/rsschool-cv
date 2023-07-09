@@ -9,7 +9,7 @@
     border: 1px solid #000;
     padding: 30px ;
     background-color:rgb(233, 230, 222);
-    border-right-style: none; 
+    border-right-style: none;
 }
 .page-right {
     width: 600px;
@@ -26,7 +26,7 @@
 .p {color: rgb(44, 42, 42)}
 .h1 {color:rgb(183, 165, 115)}
 .h2 {color:rgb(183, 165, 115)}
- 
+
 body {
     background-color:rgb(244, 243, 236);
     display: block;
